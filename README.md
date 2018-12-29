@@ -137,7 +137,7 @@ Default values:
 port:40000
 httpport:8080
 ```
-Lunch: 
+Launch: 
 ```
 cp -a Source SourceTest
 cd SourceTest
